@@ -6,5 +6,6 @@
       },
     "defaultCommandTimeout": 25000,
     "experimentalSessionSupport": true,
-    "experimentalStudio": true
+    "experimentalStudio": true,
+    "projectId": "zg5qes"
 }
