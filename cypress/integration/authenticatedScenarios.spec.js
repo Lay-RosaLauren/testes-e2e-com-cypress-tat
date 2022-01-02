@@ -48,3 +48,4 @@ describe('Scenarios where authentication is a pre-requirement', () => {
     /* ==== End Cypress Studio ==== */
   })
 })
+
