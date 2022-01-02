@@ -1,3 +1,4 @@
+/// <reference path="../support/commands.d.ts" />
 //CRUD REFATORADO
 it('CRUDs a note', () => {
   const faker = require('faker')

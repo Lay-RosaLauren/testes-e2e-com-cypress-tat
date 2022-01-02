@@ -1,3 +1,4 @@
+/// <reference path="../support/commands.d.ts" />
 it('CRUDs a note', () => {
   const faker = require('faker')
   const noteDescription = faker.lorem.words(4)
